@@ -109,3 +109,7 @@ venv.bak/
 # datafiles
 train.csv
 test.csv
+
+# course files
+notes
+slides
